@@ -1,0 +1,9 @@
+## Input
+
+var score;
+var score = 10
+console.log(score>0 && score<20)
+
+## Output
+
+True

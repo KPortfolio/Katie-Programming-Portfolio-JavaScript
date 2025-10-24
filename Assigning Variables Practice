@@ -1,0 +1,13 @@
+## Input
+
+var clothingShirt;
+var clothingShirt = "Red"
+var clothingHat;
+var clothingHat = "White"
+console.log("My shirt is: "+ clothingShirt)
+console.log("My hat is: "+ clothingHat)
+
+## Output
+
+My shirt is: Red
+My hat is: White

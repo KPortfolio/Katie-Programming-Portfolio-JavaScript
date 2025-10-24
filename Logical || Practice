@@ -1,0 +1,11 @@
+## Input 
+
+var milesLeft;
+var milesLeft = 0
+var minutesLeft;
+var minutesLeft = 10
+console.log("Race Over:", milesLeft == 0 || minutesLeft == 0)
+
+## Output
+
+Race Over: true
